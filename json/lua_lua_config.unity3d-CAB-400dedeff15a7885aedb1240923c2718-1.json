@@ -1,0 +1,1050 @@
+{
+  "m_Name": "lua/lua_config.unity3d",
+  "m_PreloadTable": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -3487666171819876051
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -7005488781221204783
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -2742829026764588820
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5255323035476503226
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -7871231576833087888
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5807882339982060162
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1101102231416835804
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 7856014909536624395
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -2323514832530897978
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6134277167339281505
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 7354691170445628162
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 395323321820680401
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -2523845276283819261
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -3570124922081853802
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6626071394782229706
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5379724497203657678
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6319721129359896470
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -7833073633779043067
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -1068989305294487797
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 8129877625844711699
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6678976629294045869
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6947339595392945569
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -1330511744224711880
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3362318085368261133
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 7125584613710300844
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1273619501639249709
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 7208991614587701280
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6910537459682972255
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -5256817715683807519
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -520142489781750630
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -9152248764107875829
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -5293941390823828888
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6168203078434888197
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -8011352474695421989
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1965148331922346856
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 7520528113120076808
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 989983909891254681
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -7532929273363118488
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -5852461835392030110
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -3641354884628285447
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -8743144806642381988
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 7415543793297404393
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6329459269801164610
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -2164243985263831623
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 164626370311344634
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -4946136086463082714
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4846714535694894894
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 8669037938679642689
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -4211537743198010974
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -1869815040929730289
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1593410366289249273
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -2217085268093414412
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -3523553386694872827
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 8927963943026540118
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5373714943825863596
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6093274153455804364
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3016041874634989379
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3486627391685434616
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -4661741246148804670
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -7737541368849557403
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6680334427120777050
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2388963620034151433
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -8008701601283511100
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -7340233407841059993
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -5840629598317808030
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 7392692270560027871
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -4974636263630569140
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6265753671402826656
+      }
+    ]
+  },
+  "m_Container": {
+    "Array": [
+      {
+        "first": "assets/lua/config/achievement.lua.bytes",
+        "second": {
+          "preloadIndex": 27,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 6910537459682972255
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/alchemy.lua.bytes",
+        "second": {
+          "preloadIndex": 17,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -7833073633779043067
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/alchemyquality.lua.bytes",
+        "second": {
+          "preloadIndex": 18,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -1068989305294487797
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/attrbase.lua.bytes",
+        "second": {
+          "preloadIndex": 0,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -3487666171819876051
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/attrcrelv.lua.bytes",
+        "second": {
+          "preloadIndex": 44,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 164626370311344634
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/attrcrelvmonster.lua.bytes",
+        "second": {
+          "preloadIndex": 4,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -7871231576833087888
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/buff.lua.bytes",
+        "second": {
+          "preloadIndex": 33,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -8011352474695421989
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/buffrelease.lua.bytes",
+        "second": {
+          "preloadIndex": 23,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 3362318085368261133
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/configall.lua.bytes",
+        "second": {
+          "preloadIndex": 66,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -4974636263630569140
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/crebase.lua.bytes",
+        "second": {
+          "preloadIndex": 49,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -1869815040929730289
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/crebasemonster.lua.bytes",
+        "second": {
+          "preloadIndex": 31,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -5293941390823828888
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/cremodel.lua.bytes",
+        "second": {
+          "preloadIndex": 41,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 7415543793297404393
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/entry.lua.bytes",
+        "second": {
+          "preloadIndex": 5,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 5807882339982060162
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/entrygroup.lua.bytes",
+        "second": {
+          "preloadIndex": 9,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -6134277167339281505
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/equipcraft.lua.bytes",
+        "second": {
+          "preloadIndex": 38,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -5852461835392030110
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/equipcraftquality.lua.bytes",
+        "second": {
+          "preloadIndex": 51,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -2217085268093414412
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/equiplvcost.lua.bytes",
+        "second": {
+          "preloadIndex": 30,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -9152248764107875829
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/equipmentquality.lua.bytes",
+        "second": {
+          "preloadIndex": 58,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -4661741246148804670
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/equipmenttype.lua.bytes",
+        "second": {
+          "preloadIndex": 42,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -6329459269801164610
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/equipupgrade.lua.bytes",
+        "second": {
+          "preloadIndex": 52,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -3523553386694872827
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/explvcfg.lua.bytes",
+        "second": {
+          "preloadIndex": 3,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 5255323035476503226
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/gamebonus.lua.bytes",
+        "second": {
+          "preloadIndex": 59,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -7737541368849557403
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/gametutorial.lua.bytes",
+        "second": {
+          "preloadIndex": 7,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 7856014909536624395
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/gametutorialmgr.lua.bytes",
+        "second": {
+          "preloadIndex": 60,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -6680334427120777050
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/globalval.lua.bytes",
+        "second": {
+          "preloadIndex": 2,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -2742829026764588820
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/itembase.lua.bytes",
+        "second": {
+          "preloadIndex": 26,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 7208991614587701280
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/itemequip.lua.bytes",
+        "second": {
+          "preloadIndex": 32,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 6168203078434888197
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/itemseed.lua.bytes",
+        "second": {
+          "preloadIndex": 34,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 1965148331922346856
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/itemsort.lua.bytes",
+        "second": {
+          "preloadIndex": 15,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 5379724497203657678
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/itemuse.lua.bytes",
+        "second": {
+          "preloadIndex": 50,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 1593410366289249273
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/jumpword.lua.bytes",
+        "second": {
+          "preloadIndex": 45,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -4946136086463082714
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/language.lua.bytes",
+        "second": {
+          "preloadIndex": 25,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 1273619501639249709
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/mainuifunc.lua.bytes",
+        "second": {
+          "preloadIndex": 39,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -3641354884628285447
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/mapcfg.lua.bytes",
+        "second": {
+          "preloadIndex": 16,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 6319721129359896470
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/mergequality.lua.bytes",
+        "second": {
+          "preloadIndex": 24,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 7125584613710300844
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/rescfg.lua.bytes",
+        "second": {
+          "preloadIndex": 67,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 6265753671402826656
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/resdropcfg.lua.bytes",
+        "second": {
+          "preloadIndex": 40,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -8743144806642381988
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/rewardgroup.lua.bytes",
+        "second": {
+          "preloadIndex": 8,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -2323514832530897978
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/rewardinfo.lua.bytes",
+        "second": {
+          "preloadIndex": 21,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 6947339595392945569
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/scenecfg.lua.bytes",
+        "second": {
+          "preloadIndex": 22,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -1330511744224711880
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/skill.lua.bytes",
+        "second": {
+          "preloadIndex": 48,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -4211537743198010974
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/skilllvupcost.lua.bytes",
+        "second": {
+          "preloadIndex": 1,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -7005488781221204783
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/skillrelease.lua.bytes",
+        "second": {
+          "preloadIndex": 47,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 8669037938679642689
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/skillstudycfg.lua.bytes",
+        "second": {
+          "preloadIndex": 10,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 7354691170445628162
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/skillstudytxt.lua.bytes",
+        "second": {
+          "preloadIndex": 65,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 7392692270560027871
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/spawncfg.lua.bytes",
+        "second": {
+          "preloadIndex": 20,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -6678976629294045869
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/spawnplan.lua.bytes",
+        "second": {
+          "preloadIndex": 13,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -3570124922081853802
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/specialeffect.lua.bytes",
+        "second": {
+          "preloadIndex": 56,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 3016041874634989379
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/stageattrcfg.lua.bytes",
+        "second": {
+          "preloadIndex": 63,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -7340233407841059993
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/stagecfg.lua.bytes",
+        "second": {
+          "preloadIndex": 37,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -7532929273363118488
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/stagejobcfg.lua.bytes",
+        "second": {
+          "preloadIndex": 6,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 1101102231416835804
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/statistics.lua.bytes",
+        "second": {
+          "preloadIndex": 57,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 3486627391685434616
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/storecfg.lua.bytes",
+        "second": {
+          "preloadIndex": 62,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -8008701601283511100
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/storeitem.lua.bytes",
+        "second": {
+          "preloadIndex": 28,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -5256817715683807519
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/tactial.lua.bytes",
+        "second": {
+          "preloadIndex": 46,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 4846714535694894894
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/talent.lua.bytes",
+        "second": {
+          "preloadIndex": 19,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 8129877625844711699
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/talk_1.lua.bytes",
+        "second": {
+          "preloadIndex": 35,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 7520528113120076808
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/task.lua.bytes",
+        "second": {
+          "preloadIndex": 54,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 5373714943825863596
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/timepass.lua.bytes",
+        "second": {
+          "preloadIndex": 61,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 2388963620034151433
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/tower1.lua.bytes",
+        "second": {
+          "preloadIndex": 64,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -5840629598317808030
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/tower2.lua.bytes",
+        "second": {
+          "preloadIndex": 14,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -6626071394782229706
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/tower3.lua.bytes",
+        "second": {
+          "preloadIndex": 55,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -6093274153455804364
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/tower4.lua.bytes",
+        "second": {
+          "preloadIndex": 12,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -2523845276283819261
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/towermgr.lua.bytes",
+        "second": {
+          "preloadIndex": 29,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -520142489781750630
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/undergroundcfg.lua.bytes",
+        "second": {
+          "preloadIndex": 36,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 989983909891254681
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/unlockcfg.lua.bytes",
+        "second": {
+          "preloadIndex": 11,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 395323321820680401
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/worldstudycfg.lua.bytes",
+        "second": {
+          "preloadIndex": 53,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 8927963943026540118
+          }
+        }
+      },
+      {
+        "first": "assets/lua/config/worldupmgr.lua.bytes",
+        "second": {
+          "preloadIndex": 43,
+          "preloadSize": 1,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -2164243985263831623
+          }
+        }
+      }
+    ]
+  },
+  "m_MainAsset": {
+    "preloadIndex": 0,
+    "preloadSize": 0,
+    "asset": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "m_RuntimeCompatibility": 1,
+  "m_AssetBundleName": "lua/lua_config.unity3d",
+  "m_Dependencies": {
+    "Array": []
+  },
+  "m_IsStreamedSceneAssetBundle": false,
+  "m_ExplicitDataLayout": 0,
+  "m_PathFlags": 7,
+  "m_SceneHashes": {
+    "Array": []
+  }
+}
